@@ -6,7 +6,7 @@ This project focuses on conducting sentiment analysis on anime reviews sourced f
 <img src="https://i.ibb.co/ykcqC83/limitmark.jpg" alt="Thanks elon" style="width: 30%;">
 
 
-To overcome this obstacle, I developed custom scraping tools using Spring Boot. These tools successfully gathered a dataset of 17,500 anime reviews from the MyAnimeList website. Consequently, the project's scope shifted to analyzing user sentiments and opinions expressed in these reviews.
+To overcome this obstacle, I developed custom scraping tools using Spring Boot. The data captured was about 17.500 anime reviews from the MyAnimeList website. Therefore, the scope of the project shifted to analysing the sentiment and user opinions expressed in these reviews.
 
 ## Project Structure
 
